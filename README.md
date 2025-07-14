@@ -1,4 +1,4 @@
-# RealisticTraffic
+# RealisticTraffic for Grand Theft Auto V
 
 Realistic Traffic – Dynamic Edition
 Please read the description carefully before installing this mod.
