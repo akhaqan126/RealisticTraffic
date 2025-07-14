@@ -95,3 +95,14 @@ This doesn't have to happen, but it can occasionally occur.
 
 IMPORTANT:
 If Rockstar Games releases an update and the game starts crashing or won't start at all, it's most likely due to the gameconfig included with that mod. This must be replaced with a current custom gameconfig until this mod receives an update.
+
+
+Discord Support
+https://www.discord.gg/p299cPjKr2
+
+I would be very grateful if you would give me criticism or suggestions for improvement regarding this mod. Thank you!
+
+
+
+ 
+Version 2.2 (Build R17)
